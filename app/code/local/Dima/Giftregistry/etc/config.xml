@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Dima_Giftregistry>
+            <version>0.1.0</version>
+        </Dima_Giftregistry>
+    </modules>
+    <global>
+        <models>
+            <dima_giftregistry>
+                <class>Dima_Giftregistry_Model</class>
+            </dima_giftregistry>
+        </models>
+        <blocks>
+            <dima_giftregistry>
+                <class>Dima_Giftregistry_Block</class>
+            </dima_giftregistry>
+        </blocks>
+        <helpers>
+            <dima_giftregistry>
+                <class>Dima_Giftregistry_Helper</class>
+            </dima_giftregistry>
+        </helpers>
+        <resources>
+            <dima_giftregistry_setup>
+                <setup>
+                    <module>Dima_Giftregistry</module>
+                </setup>
+            </dima_giftregistry_setup>
+        </resources>
+    </global>
+</config>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Dima_Giftregistry>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Dima_Giftregistry>
+    </modules>
+</config>
